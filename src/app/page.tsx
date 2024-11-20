@@ -1,4 +1,9 @@
+import { Button } from "nextra/components";
 
 export default function Home() {
-  return <div>heloo world</div>;
+  return (
+    <div>
+      <Button>click</Button>
+    </div>
+  );
 }
