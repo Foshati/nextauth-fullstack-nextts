@@ -1,9 +1,3 @@
-import { Button } from "nextra/components";
-
 export default function Home() {
-  return (
-    <div>
-      <Button>click</Button>
-    </div>
-  );
+  return <h1 className="text-4xl">Home</h1>;
 }
