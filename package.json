@@ -22,7 +22,7 @@
     "eslint": "9.16.0",
     "eslint-config-next": "15.0.3",
     "lucide-react": "^0.263.1",
-    "next": "15.0.3",
+    "next": "14.2.21",
     "postcss": "8.4.27",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
